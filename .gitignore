@@ -1,0 +1,10 @@
+.idea
+__pycache__
+__pycache__/*
+.vscode
+gui
+output
+chromedata
+*.pptx
+*.mp3
+*.log
